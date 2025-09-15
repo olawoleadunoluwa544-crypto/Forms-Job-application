@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms in html</title>
+</head>
+<body>
+    <h2>Job application form</h2>
+    <form>
+        <fieldset>
+        <legend>Job application form</legend>
+        <label>Full name</label><br>
+        <input type = "text"><br>
+        <label>Email</label><br>
+        <input type = "Email"><br>
+        <label>Age</label><br>
+        <input type = "number"><br>
+        <label>Phone number</label><br>
+        <label>Address</label><br>
+        <input type = "text"><br>
+        <label>Phone number</label><br>
+        <input type = "text"><br>
+        <label>Social security number</label><br>
+        <input type = "text"><br>
+        <label>Date of birth</label><br>
+        <input type = "date"><br>
+        <label>gender</label><br>
+        <input type = "radio">Male<br>
+        <input type = "radio">Female<br>
+        <input type = "radio">Others<br>
+        <label>desired job title</label><br>
+        <input type = "text"><br>
+        <label>Desired salary</label><br>
+        <input type = "number"><br>
+        <label></label><br>
+        <label>Availability</label><br>
+        <input type = "radio">Part-time<br>
+        <input type = "radio">Full-time<br>
+        <input type = "radio">Other<br>
+        <label>Willing to relocate</label><br>
+        <input type = "radio">Yes<br>
+        <input type = "radio">No<br>
+        <label>Authorised to work in country</label><br>
+        <input type = "radio">Yes<br>
+        <input type = "radio">No<br>
+        <br>
+        <button>Submit</button>
+        </fieldset>
+    </form>
+</body>
+</html>
